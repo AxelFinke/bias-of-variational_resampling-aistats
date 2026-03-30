@@ -1,0 +1,3 @@
+This folder is intended to store simulation outputs.
+Data are available at: https://figshare.com/... 
+Place these here if you wish to re-draw the figures without re-running the code.
